@@ -1,0 +1,6 @@
+{
+  "name": "WarungKita Retail",
+  "description": "Website Company Profile dengan Katalog Produk Interaktif & Checkout WhatsApp Mudah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
